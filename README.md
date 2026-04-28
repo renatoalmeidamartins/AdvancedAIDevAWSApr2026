@@ -12,3 +12,5 @@
 
 # Links do curso - dia 1 
 - [There's no place like production, com uma boa discussão sobre testes em ambientes iguais a produção](https://imwrightshardcode.com/2010/12/theres-no-place-like-production/)
+- [Video que "lança" o movimento devops](https://www.youtube.com/watch?v=LdOe18KhtT4)
+- [12 factor app, proposta para desenvolvimento "moderno" de aplicações](https://12factor.net/)
