@@ -42,3 +42,4 @@
 - [Evaluate Amazon Bedrock Agents with Ragas and LLM-as-a-judge](https://aws.amazon.com/blogs/machine-learning/evaluate-amazon-bedrock-agents-with-ragas-and-llm-as-a-judge/)
 - [Métricas RAGAS](https://docs.ragas.io/en/v0.1.21/concepts/metrics/index.html)
 - [Evaluate RAG responses with Amazon Bedrock, LlamaIndex and RAGAS](https://aws.amazon.com/blogs/machine-learning/evaluate-rag-responses-with-amazon-bedrock-llamaindex-and-ragas/)
+- [Repo com exemplos para "Evaluate and compare Large Language Models (LLMs) on AWS"](https://github.com/aws-samples/llm-evaluation-methodology/tree/main)
