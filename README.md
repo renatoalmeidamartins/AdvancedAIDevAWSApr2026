@@ -34,3 +34,4 @@
 - [Paper que define "spatial transformer networks"](https://arxiv.org/pdf/1506.02025)
 - [Exemplos de bases vetoriais suportadas no Langchain](https://docs.langchain.com/oss/javascript/integrations/vectorstores#similarity-search)
 - [Opções de bases vetoriais na AWS](https://docs.aws.amazon.com/prescriptive-guidance/latest/choosing-an-aws-vector-database-for-rag-use-cases/vector-db-options.html)
+- [Amazon Bedrock Knowledge Bases now supports hybrid search](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-knowledge-bases-now-supports-hybrid-search/)
