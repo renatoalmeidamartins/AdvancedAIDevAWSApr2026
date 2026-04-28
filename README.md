@@ -17,3 +17,5 @@
 - [The DevOPS Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.amazon.com.br/DevOps-Handbook-World-Class-Reliability-Organizations)
 - [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com.br/Accelerate-Software-Performing-Technology-Organizations)
 - [The Phoenix Project: A Novel about It, Devops, and Helping Your Business Win](https://www.amazon.com.br/Phoenix-Project-Gene-Kim)
+- (Built-in metric evaluator prompts for model-as-a-judge evaluation jobs)[https://docs.aws.amazon.com/bedrock/latest/userguide/model-evaluation-type-judge-prompt.html]
+- [Available built-in datasets for automatic model evaluation jobs in Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/model-evaluation-prompt-datasets.html)
