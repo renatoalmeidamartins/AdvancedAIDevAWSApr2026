@@ -54,3 +54,5 @@
 - [Guia de desenhar um prompt na documentação da AWS](https://docs.aws.amazon.com/bedrock/latest/userguide/design-a-prompt.html)
 - [Melhores práticas para prompt - um pouco antigo, usando Claude 3, mais os conceitos ainda se aplicariam](https://aws.amazon.com/blogs/machine-learning/prompt-engineering-techniques-and-best-practices-learn-by-doing-with-anthropics-claude-3-on-amazon-bedrock/)
 - [API converse no Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-bedrock-new-converse-api/)
+- [Repo com modelos para Bedrock Flows](https://github.com/aws-samples/amazon-bedrock-flows-samples?tab=readme-ov-file)
+- [Exemplo fim-a-fim do uso de bedrock flows](https://aws.amazon.com/blogs/machine-learning/introducing-multi-turn-conversation-with-an-agent-node-for-amazon-bedrock-flows-preview/)
