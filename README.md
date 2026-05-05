@@ -76,3 +76,8 @@
 - [Amazon Bedrock AgentCore Memory: Building context-aware agents](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-memory-building-context-aware-agents/)
 - [Browser possibilita uso de autenticação de bots para diminuir interrupções de captcha](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/browser-web-bot-auth.html)
 - [Blog falando do mesmo tema acima - bot auth](https://aws.amazon.com/blogs/machine-learning/reduce-captchas-for-ai-agents-browsing-the-web-with-web-bot-auth-preview-in-amazon-bedrock-agentcore-browser/)
+- [Minimize AI hallucinations and deliver up to 99% verification accuracy with Automated Reasoning checks: Now available](https://aws.amazon.com/blogs/aws/minimize-ai-hallucinations-and-deliver-up-to-99-verification-accuracy-with-automated-reasoning-checks-now-available/)
+- [Top 10 de genai do OWASP](https://genai.owasp.org/llm-top-10/)
+- [NIST AI Risk management framework](https://www.nist.gov/itl/ai-risk-management-framework)
+- [Integrações de terceiros com CSPM do Security Hub](https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html)
+- 
