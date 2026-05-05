@@ -72,5 +72,6 @@
 - [Quickstart do CrewAI](https://docs.crewai.com/en/quickstart)
 - [Repo com exemplos de bedrock agents](https://github.com/awslabs/amazon-bedrock-agent-samples)
 - [Chainlit, um bom framework para aplicações baseadas em IA](https://github.com/Chainlit/chainlit)
-- 
+- [Semantic search para ferramentas no gateway](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-using-mcp-semantic-search.html)
+- [Amazon Bedrock AgentCore Memory: Building context-aware agents](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-memory-building-context-aware-agents/)
 - 
