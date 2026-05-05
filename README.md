@@ -4,6 +4,8 @@
 - [Linkedin](https://www.linkedin.com/in/renatodealmeidamartins/)
 - email: renatoalmeidamartins@gmail.com
 
+# Acesso ao webex da sala
+- [https://prod.evcsp.aurous.training.aws.dev/link?activityPK=9d2495a3-a73b-4533-a8bd-0e96882a205e](https://prod.evcsp.aurous.training.aws.dev/link?activityPK=9d2495a3-a73b-4533-a8bd-0e96882a205e)
 # Acesso ao laboratório e materiais do curso
 - Ponto de entrada para o material é [https://myclass.skillbuilder.aws/](https://myclass.skillbuilder.aws/)
 - Documento completo com suporte ao myclass está [aqui](myClass%20Classroom%20Training%20Learner%20Guide.pdf)
