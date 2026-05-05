@@ -57,3 +57,4 @@
 - [Repo com modelos para Bedrock Flows](https://github.com/aws-samples/amazon-bedrock-flows-samples?tab=readme-ov-file)
 - [Exemplo fim-a-fim do uso de bedrock flows](https://aws.amazon.com/blogs/machine-learning/introducing-multi-turn-conversation-with-an-agent-node-for-amazon-bedrock-flows-preview/)
 - [Prevent factual errors from LLM hallucinations with mathematically sound Automated Reasoning checks](https://aws.amazon.com/blogs/aws/prevent-factual-errors-from-llm-hallucinations-with-mathematically-sound-automated-reasoning-checks-preview/)
+- [Notebook de exemplo para Flows e prompt management](https://github.com/aws-samples/amazon-bedrock-samples/blob/main/articles-guides/prompt-engineering/Prompt_Management_Flows/Prompts_evaluation_with_Prompt_Management_Flows.ipynb)
