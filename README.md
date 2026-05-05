@@ -69,4 +69,5 @@
 - [Introducing Strands Labs: Get hands-on today with state-of-the-art, experimental approaches to agentic development](https://aws.amazon.com/blogs/opensource/introducing-strands-labs-get-hands-on-today-with-state-of-the-art-experimental-approaches-to-agentic-development/)
 - [Sagemaker studio lab, para uso de recursos do sagemaker sem ter uma conta AWS](https://studiolab.sagemaker.aws/)
 - [Comparação, enviesada, diga-se de passagem, entre strands e langgraph](https://dev.to/aws-builders/aws-strands-replaced-60-lines-of-langgraph-with-3-heres-the-full-story-2ok0). Enviesada pois se pode obter o mesmo simplesmente chamando CreateAgent do LangChain, ao invés de construir todo o grafo.
+- [Quickstart do CrewAI](https://docs.crewai.com/en/quickstart)
 - 
