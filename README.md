@@ -42,6 +42,8 @@
 - [Multi-tenancy in RAG applications in a single Amazon Bedrock knowledge base with metadata filtering](https://aws.amazon.com/blogs/machine-learning/multi-tenancy-in-rag-applications-in-a-single-amazon-bedrock-knowledge-base-with-metadata-filtering/)
 - [Super charge your LLMs with RAG at scale using AWS Glue for Apache Spark](https://aws.amazon.com/blogs/machine-learning/super-charge-your-llms-with-rag-at-scale-using-aws-glue-for-apache-spark/)
 - [Evaluate Amazon Bedrock Agents with Ragas and LLM-as-a-judge](https://aws.amazon.com/blogs/machine-learning/evaluate-amazon-bedrock-agents-with-ragas-and-llm-as-a-judge/)
+# Links do curso - dia 2
+- [Lente de GenAI para well-architected framework](https://docs.aws.amazon.com/wellarchitected/latest/generative-ai-lens/generative-ai-lens.html)
 - [Métricas RAGAS](https://docs.ragas.io/en/v0.1.21/concepts/metrics/index.html)
 - [Evaluate RAG responses with Amazon Bedrock, LlamaIndex and RAGAS](https://aws.amazon.com/blogs/machine-learning/evaluate-rag-responses-with-amazon-bedrock-llamaindex-and-ragas/)
 - [Repo com exemplos para "Evaluate and compare Large Language Models (LLMs) on AWS"](https://github.com/aws-samples/llm-evaluation-methodology/tree/main)
