@@ -50,3 +50,6 @@
 - [Cost and usage reports](https://docs.aws.amazon.com/cur/latest/userguide/what-is-cur.html)
 - [AWS Cost Explorer suporta Focus 1.2](https://aws.amazon.com/blogs/aws-cloud-financial-management/data-exports-for-focus-1-2-is-now-generally-available/)
 - [Estratégias para cache de prompts](https://aws.amazon.com/blogs/machine-learning/effectively-use-prompt-caching-on-amazon-bedrock/)
+- [Implementing advanced prompt engineering with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/implementing-advanced-prompt-engineering-with-amazon-bedrock/)
+- [Guia de desenhar um prompt na documentação da AWS](https://docs.aws.amazon.com/bedrock/latest/userguide/design-a-prompt.html)
+- [Melhores práticas para prompt - um pouco antigo, usando Claude 3, mais os conceitos ainda se aplicariam](https://aws.amazon.com/blogs/machine-learning/prompt-engineering-techniques-and-best-practices-learn-by-doing-with-anthropics-claude-3-on-amazon-bedrock/)
