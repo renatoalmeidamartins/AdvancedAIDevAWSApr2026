@@ -61,4 +61,5 @@
 - [Structured data response with Amazon Bedrock: Prompt Engineering and Tool Use](https://aws.amazon.com/blogs/machine-learning/structured-data-response-with-amazon-bedrock-prompt-engineering-and-tool-use/)
 - [Structured outputs with Amazon Nova: A guide for builders](https://aws.amazon.com/blogs/machine-learning/structured-outputs-with-amazon-nova-a-guide-for-builders/)
 - [Test a prompt using prompt management](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-management-test.html)
-- 
+- [Exemplos usando o SDK python para diversas operações do bedrock-runtime](https://github.com/awsdocs/aws-doc-sdk-examples/tree/main/python/example_code/bedrock-runtime)
+- [Announcing AWS Lambda Function URLs: Built-in HTTPS Endpoints for Single-Function Microservices](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/)
