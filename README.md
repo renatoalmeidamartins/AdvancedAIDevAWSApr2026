@@ -80,4 +80,6 @@
 - [Top 10 de genai do OWASP](https://genai.owasp.org/llm-top-10/)
 - [NIST AI Risk management framework](https://www.nist.gov/itl/ai-risk-management-framework)
 - [Integrações de terceiros com CSPM do Security Hub](https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html)
+- [Model cards do sagemaker](https://docs.aws.amazon.com/sagemaker/latest/dg/model-cards.html#model-cards-json-schema)
+- [Fairness, model explainability and bias detection with SageMaker Clarify](https://docs.aws.amazon.com/sagemaker/latest/dg/clarify-configure-processing-jobs.html)
 - 
