@@ -74,4 +74,5 @@
 - [Chainlit, um bom framework para aplicações baseadas em IA](https://github.com/Chainlit/chainlit)
 - [Semantic search para ferramentas no gateway](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-using-mcp-semantic-search.html)
 - [Amazon Bedrock AgentCore Memory: Building context-aware agents](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-memory-building-context-aware-agents/)
-- 
+- [Browser possibilita uso de autenticação de bots para diminuir interrupções de captcha](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/browser-web-bot-auth.html)
+- [Blog falando do mesmo tema acima - bot auth](https://aws.amazon.com/blogs/machine-learning/reduce-captchas-for-ai-agents-browsing-the-web-with-web-bot-auth-preview-in-amazon-bedrock-agentcore-browser/)
