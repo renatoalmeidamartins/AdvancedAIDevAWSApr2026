@@ -57,4 +57,8 @@
 - [Repo com modelos para Bedrock Flows](https://github.com/aws-samples/amazon-bedrock-flows-samples?tab=readme-ov-file)
 - [Exemplo fim-a-fim do uso de bedrock flows](https://aws.amazon.com/blogs/machine-learning/introducing-multi-turn-conversation-with-an-agent-node-for-amazon-bedrock-flows-preview/)
 - [Prevent factual errors from LLM hallucinations with mathematically sound Automated Reasoning checks](https://aws.amazon.com/blogs/aws/prevent-factual-errors-from-llm-hallucinations-with-mathematically-sound-automated-reasoning-checks-preview/)
-- [Notebook de exemplo para Flows e prompt management](https://github.com/aws-samples/amazon-bedrock-samples/blob/main/articles-guides/prompt-engineering/Prompt_Management_Flows/Prompts_evaluation_with_Prompt_Management_Flows.ipynb)
+- [Evaluating prompts at scale with Prompt Management and Prompt Flows for Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/evaluating-prompts-at-scale-with-prompt-management-and-prompt-flows-for-amazon-bedrock/)
+- [Structured data response with Amazon Bedrock: Prompt Engineering and Tool Use](https://aws.amazon.com/blogs/machine-learning/structured-data-response-with-amazon-bedrock-prompt-engineering-and-tool-use/)
+- [Structured outputs with Amazon Nova: A guide for builders](https://aws.amazon.com/blogs/machine-learning/structured-outputs-with-amazon-nova-a-guide-for-builders/)
+- [Test a prompt using prompt management](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-management-test.html)
+- 
