@@ -70,4 +70,7 @@
 - [Sagemaker studio lab, para uso de recursos do sagemaker sem ter uma conta AWS](https://studiolab.sagemaker.aws/)
 - [Comparação, enviesada, diga-se de passagem, entre strands e langgraph](https://dev.to/aws-builders/aws-strands-replaced-60-lines-of-langgraph-with-3-heres-the-full-story-2ok0). Enviesada pois se pode obter o mesmo simplesmente chamando CreateAgent do LangChain, ao invés de construir todo o grafo.
 - [Quickstart do CrewAI](https://docs.crewai.com/en/quickstart)
+- [Repo com exemplos de bedrock agents](https://github.com/awslabs/amazon-bedrock-agent-samples)
+- [Chainlit, um bom framework para aplicações baseadas em IA](https://github.com/Chainlit/chainlit)
+- 
 - 
