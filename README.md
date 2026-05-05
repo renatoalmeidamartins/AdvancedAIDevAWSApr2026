@@ -63,3 +63,10 @@
 - [Test a prompt using prompt management](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-management-test.html)
 - [Exemplos usando o SDK python para diversas operações do bedrock-runtime](https://github.com/awsdocs/aws-doc-sdk-examples/tree/main/python/example_code/bedrock-runtime)
 - [Announcing AWS Lambda Function URLs: Built-in HTTPS Endpoints for Single-Function Microservices](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/)
+- [Strands Agents SDK: A technical deep dive into agent architectures and observability](https://aws.amazon.com/blogs/machine-learning/strands-agents-sdk-a-technical-deep-dive-into-agent-architectures-and-observability/)
+- [Introducing Strands Agents, an Open Source AI Agents SDK](https://aws.amazon.com/blogs/opensource/introducing-strands-agents-an-open-source-ai-agents-sdk/)
+- [Agents em Langchain](https://docs.langchain.com/oss/javascript/langchain/agents)
+- [Introducing Strands Labs: Get hands-on today with state-of-the-art, experimental approaches to agentic development](https://aws.amazon.com/blogs/opensource/introducing-strands-labs-get-hands-on-today-with-state-of-the-art-experimental-approaches-to-agentic-development/)
+- [Sagemaker studio lab, para uso de recursos do sagemaker sem ter uma conta AWS](https://studiolab.sagemaker.aws/)
+- [Comparação, enviesada, diga-se de passagem, entre strands e langgraph](https://dev.to/aws-builders/aws-strands-replaced-60-lines-of-langgraph-with-3-heres-the-full-story-2ok0). Enviesada pois se pode obter o mesmo simplesmente chamando CreateAgent do LangChain, ao invés de construir todo o grafo.
+- 
