@@ -86,6 +86,8 @@
 - [Modelos de conformance packs do config](https://docs.aws.amazon.com/config/latest/developerguide/conformancepack-sample-templates.html)
 - [Augmented AI no Sagemaker, meio que deu origem as evaluations de bedrock e agentcore](https://docs.aws.amazon.com/sagemaker/latest/dg/a2i-use-augmented-ai-a2i-human-review-loops.html)
 - [Toda a funcionalidade de avaliações no Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/evaluation.html)
+  - [Uso de jobos de avaliacão "automatic: programmatic"](https://docs.aws.amazon.com/bedrock/latest/userguide/model-evaluation-tasks.html) - veja logo abaixo os tipos de tarefas e métricas disponíveis
+  - [Conjunto de prompts, agrupado por modelo, para cada uma das métricas da avaliação com LLM como juiz](https://docs.aws.amazon.com/bedrock/latest/userguide/model-evaluation-type-judge-prompt.html)
 - [Bedrock evaluations com LLM-as-a-judge](https://aws.amazon.com/blogs/machine-learning/llm-as-a-judge-on-amazon-bedrock-model-evaluation/)
 - [Evaluations no agentcore](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/evaluations.html)
 - [Uso de skills para customizar modelos no sagemaker ai](https://docs.aws.amazon.com/sagemaker/latest/dg/customize-model.html)
