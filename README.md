@@ -98,3 +98,4 @@
 - [Endpoints multi-modelo no Sagemaker](https://docs.aws.amazon.com/sagemaker/latest/dg/multi-model-endpoints.html)
 - [Sagemaker Neo, para deploy em dispositivos edge](https://docs.aws.amazon.com/sagemaker/latest/dg/neo.html)
 - [Bedrock na Edge](https://aws.amazon.com/blogs/opensource/building-intelligent-physical-ai-from-edge-to-cloud-with-strands-agents-bedrock-agentcore-claude-4-5-nvidia-gr00t-and-hugging-face-lerobot/)
+- [Uso de busca semantica no elasticache](https://aws.amazon.com/blogs/database/announcing-vector-search-for-amazon-elasticache/)
