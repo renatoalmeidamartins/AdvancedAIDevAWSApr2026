@@ -96,3 +96,5 @@
 - [Agentcore payments, permitindo que agentes acessem recursos que necessitam pagamento](https://aws.amazon.com/blogs/machine-learning/agents-that-transact-introducing-amazon-bedrock-agentcore-payments-built-with-coinbase-and-stripe/)
 - [Throughput provisionado em Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/prov-throughput.html)
 - [Endpoints multi-modelo no Sagemaker](https://docs.aws.amazon.com/sagemaker/latest/dg/multi-model-endpoints.html)
+- [Sagemaker Neo, para deploy em dispositivos edge](https://docs.aws.amazon.com/sagemaker/latest/dg/neo.html)
+- [Bedrock na Edge](https://aws.amazon.com/blogs/opensource/building-intelligent-physical-ai-from-edge-to-cloud-with-strands-agents-bedrock-agentcore-claude-4-5-nvidia-gr00t-and-hugging-face-lerobot/)
