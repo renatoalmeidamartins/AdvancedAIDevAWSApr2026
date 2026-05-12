@@ -90,6 +90,6 @@
   - [Conjunto de prompts, agrupado por modelo, para cada uma das métricas da avaliação com LLM como juiz](https://docs.aws.amazon.com/bedrock/latest/userguide/model-evaluation-type-judge-prompt.html)
 - [Bedrock evaluations com LLM-as-a-judge](https://aws.amazon.com/blogs/machine-learning/llm-as-a-judge-on-amazon-bedrock-model-evaluation/)
 - [Evaluations no agentcore](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/evaluations.html)
-- [Uso de skills para customizar modelos no sagemaker ai](https://docs.aws.amazon.com/sagemaker/latest/dg/customize-model.html)
+- [Opções de customização modelos LLM  no sagemaker ai](https://docs.aws.amazon.com/sagemaker/latest/dg/customize-model.html)
 # Links do curso - dia 3
 - [Roteamento inteligente de prompts](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-routing.html)
