@@ -99,3 +99,11 @@
 - [Sagemaker Neo, para deploy em dispositivos edge](https://docs.aws.amazon.com/sagemaker/latest/dg/neo.html)
 - [Bedrock na Edge](https://aws.amazon.com/blogs/opensource/building-intelligent-physical-ai-from-edge-to-cloud-with-strands-agents-bedrock-agentcore-claude-4-5-nvidia-gr00t-and-hugging-face-lerobot/)
 - [Uso de busca semantica no elasticache](https://aws.amazon.com/blogs/database/announcing-vector-search-for-amazon-elasticache/)
+- [Detecção de anomalias de custo](https://docs.aws.amazon.com/cost-management/latest/userguide/manage-ad.html)
+- [Avaliacão de LLMs com FMEval e MLFlow (mis simples que os Bedrock evaluations)](https://aws.amazon.com/blogs/machine-learning/track-llm-model-evaluation-using-amazon-sagemaker-managed-mlflow-and-fmeval/)
+- [Conceito de AI Ops](https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-operations-integration/aiops.html)
+- [Sagemaker model monitor](https://docs.aws.amazon.com/sagemaker/latest/dg/model-monitor.html)
+- [Artigo da ACM analisando ganhos de produtividade com GitHub copilot, para ilustrar o quanto são complexas estas métricas](https://cacm.acm.org/research/measuring-github-copilots-impact-on-productivity/)
+- [AIOps na geraçào de relatórios de incidente](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/Investigations-Incident-Reports.html)
+- [Anuncios de AIOps no reinvente 2025](https://aws.amazon.com/blogs/mt/2025-top-10-announcements-for-aws-cloud-operations/)
+- 
