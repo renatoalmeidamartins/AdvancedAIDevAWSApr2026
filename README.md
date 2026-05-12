@@ -93,3 +93,4 @@
 - [Opções de customização modelos LLM  no sagemaker ai](https://docs.aws.amazon.com/sagemaker/latest/dg/customize-model.html)
 # Links do curso - dia 3
 - [Roteamento inteligente de prompts](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-routing.html)
+- [Agentcore payments, permitindo que agentes acessem recursos que necessitam pagamento](https://aws.amazon.com/blogs/machine-learning/agents-that-transact-introducing-amazon-bedrock-agentcore-payments-built-with-coinbase-and-stripe/)
